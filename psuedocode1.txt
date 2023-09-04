@@ -1,0 +1,9 @@
+Function Main
+    Declare Integer x, y, Sum, Average
+
+    Input x
+    Input y
+    Assign Sum = x+y
+    Assign Average = Sum/2
+    Output Average
+End
